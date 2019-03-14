@@ -1,3 +1,3 @@
 <?php
 
-echo "oi\n";
+print "oi\n";
